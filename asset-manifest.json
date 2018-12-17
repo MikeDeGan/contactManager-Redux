@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.1129e1b9.css",
-  "main.css.map": "static/css/main.1129e1b9.css.map",
-  "main.js": "static/js/main.ae0bf415.js",
-  "main.js.map": "static/js/main.ae0bf415.js.map"
+  "main.css": "/contactManager-Redux/static/css/main.a41f0652.chunk.css",
+  "main.js": "/contactManager-Redux/static/js/main.5d8ff08b.chunk.js",
+  "main.js.map": "/contactManager-Redux/static/js/main.5d8ff08b.chunk.js.map",
+  "static/css/1.79328e45.chunk.css": "/contactManager-Redux/static/css/1.79328e45.chunk.css",
+  "static/js/1.fc1f5fbd.chunk.js": "/contactManager-Redux/static/js/1.fc1f5fbd.chunk.js",
+  "static/js/1.fc1f5fbd.chunk.js.map": "/contactManager-Redux/static/js/1.fc1f5fbd.chunk.js.map",
+  "runtime~main.js": "/contactManager-Redux/static/js/runtime~main.a77619c9.js",
+  "runtime~main.js.map": "/contactManager-Redux/static/js/runtime~main.a77619c9.js.map",
+  "static/css/1.79328e45.chunk.css.map": "/contactManager-Redux/static/css/1.79328e45.chunk.css.map",
+  "static/css/main.a41f0652.chunk.css.map": "/contactManager-Redux/static/css/main.a41f0652.chunk.css.map",
+  "index.html": "/contactManager-Redux/index.html",
+  "precache-manifest.f4c755870dfee6abd45ecf21df8d2f25.js": "/contactManager-Redux/precache-manifest.f4c755870dfee6abd45ecf21df8d2f25.js",
+  "service-worker.js": "/contactManager-Redux/service-worker.js"
 }
